@@ -1,4 +1,4 @@
-# DataX Project - Django REST API with Audit Logging and Image Processing
+# Django REST API with Audit Logging and Image Processing
 
 This project implements three distinct Django applications, each addressing different requirements for a comprehensive web API system.
 
